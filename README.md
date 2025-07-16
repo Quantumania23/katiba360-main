@@ -30,7 +30,7 @@ For the full design guide, see `katiba360-app/Global Design Guide.txt`.
 ## Getting Started
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/elijahondiek/katiba360.git
+   git clone https://github.com/Quantumania23/katiba360-main
    ```
 2. **Install dependencies:**
    ```sh
@@ -72,8 +72,8 @@ For design consistency, please refer to `katiba360-app/Global Design Guide.txt` 
 This project is licensed under the MIT License.
 
 ## Contact
-- Contact: [@WebShrewd](https://x.com/WebShrewd)
-- Buy me a coffee: [buymeacoffee.com/Teksad](https://buymeacoffee.com/Teksad)
+- Contact: [@Mikepeace981](https://x.com/Mikepeace981)
+- Buy me a coffee: [buymeacoffee.com/Teksad](https://buymeacoffee.com/mikepeace9j)
 
 ---
 
